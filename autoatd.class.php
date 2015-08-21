@@ -1,5 +1,13 @@
 <?php
 
+/*
+
+- Censurar palavras feias
+- Encontrar palavras chaves
+- Estudar estrutura para geração do banco de dados, MySQL vai dar conta quando tiver milhões de dados?
+
+*/
+
 class autoadt{
 
 	private $query;
